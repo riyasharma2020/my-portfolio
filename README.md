@@ -36,7 +36,7 @@ Technologies Used:
 
 ISRO, Research Intern
 
-Description: Worked as an intern and developed a pipeline foe 
+Description: Worked as an intern and developed a JSON File Editor project is a useful web-application designed specifically for working with satellite data, enabling users to efficiently convert and transform the data into a suitable JSON format. By providing a user-friendly interface and advanced editing capabilities, this editor simplifies the process of manipulating satellite data, ensuring accurate representation and compatibility for various applications and systems that rely on JSON structures.
 
 ## Certifications
 
