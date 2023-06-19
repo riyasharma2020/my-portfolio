@@ -1,3 +1,5 @@
+![Profile Image](/assets/pfp-riya.jpg) 
+
 # About Me
 
 Hi, I'm Riya Panda, a passionate data science student specializing in AI and ML from VIT Bhopal University. Currently pursuing my B.Tech in Computer Science and Engineering, I am driven by a strong curiosity to explore the realms of artificial intelligence and machine learning. With a keen interest in data analysis and problem-solving, I am constantly seeking opportunities to apply my skills and knowledge to real-world challenges.
