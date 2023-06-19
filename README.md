@@ -1,4 +1,4 @@
-![Profile Image](/assets/pfp-riya.jpg) 
+<img src="/assets/pfp-riya.jpg" width="200" height="200" />
 
 # About Me
 
